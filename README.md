@@ -55,7 +55,7 @@ and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c8
 * OpenCOVID19 France: https://github.com/opencovid19-fr
 * Chile: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
 * Brazil Ministry of Health: https://covid.saude.gov.br/
-* Gobierono De Mexico:https://covid19.sinave.gob.mx/
+* Gobierno De Mexico:https://covid19.sinave.gob.mx/
 
 <br>
 <b>Additional Information about the Visual Dashboard:</b><br>
